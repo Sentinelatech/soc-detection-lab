@@ -1,6 +1,6 @@
 # Especificação — soc-detection-lab
 
-**Semana:** 18/11 a 24/11/2026
+**Semana:** 20/11 a 26/11/2026
 **Entrega final:** regras de detecção + relatório de triagem + playbook
 
 ## Contexto
@@ -32,10 +32,10 @@ Qualquer emulação fora das VMs do laboratório.
 
 | Dia | Fase | Entrega do dia |
 |---|---|---|
-| Qua 18/11 | Subir o Wazuh e ligar o endpoint | SIEM recebendo logs |
-| Qui 19/11 | Primeira técnica e alerta | Alerta gerado e triado |
-| Sex 20/11 | Segunda técnica e regra própria | Regra de detecção em `deteccoes/` |
-| Sáb 21/11 | Terceira técnica (dia leve) | Alerta mapeado ao ATT&CK |
-| Dom 22/11 | Relatório de triagem (dia leve) | Triagem dos três alertas em rascunho |
-| Seg 23/11 | Playbook de resposta | `playbook/` reproduzível |
-| Ter 24/11 | Fechamento | Relatório final, arquitetura e README |
+| Sex 20/11 | Subir o Wazuh e ligar o endpoint | SIEM recebendo logs |
+| Sáb 21/11 | Primeira técnica e alerta (dia leve) | Alerta gerado e triado |
+| Dom 22/11 | Segunda técnica e alerta (dia leve) | Alerta mapeado ao ATT&CK |
+| Seg 23/11 | Terceira técnica e regra própria | Regra de detecção em `deteccoes/` |
+| Ter 24/11 | Relatório de triagem | Triagem dos três alertas em rascunho |
+| Qua 25/11 | Playbook de resposta | `playbook/` reproduzível |
+| Qui 26/11 | Fechamento | Relatório final, arquitetura e README |
